@@ -1,0 +1,67 @@
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding:32px;">
+  <tr>
+    <td style="padding:0;">
+      <!-- Badverde -->
+      <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom:20px;">
+        <tr>
+          <td style="background-color:#10b981; border-radius:30px; padding:4px 14px;"><span
+              style="color:white; font-size:12px; font-weight:600; letter-spacing:0.5px;">RESERVA CONFIRMADA</span></td>
+        </tr>
+      </table>
+
+      <h1 style="font-size:24px; font-weight:700; color:#0f172a; margin:0 0 8px 0; text-align:center;">¡Reserva
+        confirmada!</h1>
+      <p style="color:#334155; margin:0 0 8px 0; text-align:center;">Estimado/a <strong>{full_name}</strong>,</p>
+      <p style="color:#334155; margin:0 0 24px 0; text-align:center;">Su reserva ha sido confirmada. A continuación
+        encontrarás los detalles de tu viaje y los códigos de localizador (PNR) y ticket.</p>
+
+      <!-- Código de reserva -->
+      <table align="center" cellpadding="0" cellspacing="0" border="0"
+        style="background-color:#f1f5f9; border-radius:40px; margin:0 auto 24px auto;">
+        <tr>
+          <td style="padding:8px 18px;"><span
+              style="font-family:monospace; font-size:18px; font-weight:600; color:{company_primary_color};">{reservation_code}</span>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Tarjeta de detalles -->
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"
+        style="background-color:#f8fafc; border-radius:16px; border:1px solid #e2e8f0; margin-bottom:24px;">
+        <tr>
+          <td style="padding:20px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="padding-bottom:12px;"><strong style="color:#334155;">PNR</strong><br><span
+                    style="color:#1e293b;">{tryp_pnr}</span></td>
+              </tr>
+              <tr>
+                <td style="padding-bottom:12px;"><strong style="color:#334155;">Número de ticket</strong><br><span
+                    style="color:#1e293b;">{tryp_ticket}</span></td>
+              </tr>
+              <tr>
+                <td style="padding-bottom:12px;"><strong style="color:#334155;">Tipo de viaje</strong><br><span
+                    style="color:#1e293b;">{tryp_type}</span></td>
+              </tr>
+              <tr>
+                <td style="padding-bottom:0;"><strong style="color:#334155;">Ruta principal</strong><br><span
+                    style="color:#1e293b;">{flight_origin} → {flight_destination}</span></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Botón -->
+      <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;">
+        <tr>
+          <td style="background-color:{company_primary_color}; border-radius:40px; padding:10px 28px;">
+            <a href="{url_view_details}" target="_blank"
+              style="color:white; text-decoration:none; font-weight:600; font-size:14px; display:inline-block;">Ver
+              estado de reserva</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

@@ -1,0 +1,8 @@
+body {
+    background: red;
+}
+
+.pattern-circle {
+    fill: "#dda508";
+    opacity: 0.2,
+}

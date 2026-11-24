@@ -1,0 +1,23 @@
+/* FilterChipPopover.module.css */
+
+.chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    border: 1px dashed #ccc;
+    border-radius: 16px;
+    padding: 4px 8px;
+    transition: all 0.1s ease;
+    color: inherit;
+    background-color: transparent;
+}
+
+.chipActive {
+    border-color: var(--mantine-primary-color-filled);
+    color: var(--mantine-primary-color-filled);
+}
+
+.chip:hover {
+    background-color: var(--mantine-color-gray-1);
+}

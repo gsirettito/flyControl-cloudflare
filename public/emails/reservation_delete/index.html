@@ -1,0 +1,58 @@
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding:32px;">
+  <tr>
+    <td style="padding:0;">
+      <!-- Badge roja: RESERVA CANCELADA -->
+      <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom:20px;">
+        <tr>
+          <td style="background-color:#dc2626; border-radius:30px; padding:4px 14px;">
+            <span style="color:white; font-size:12px; font-weight:600; letter-spacing:0.5px;">RESERVA CANCELADA</span>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Título y mensaje -->
+      <h1 style="font-size:24px; font-weight:700; color:#0f172a; margin:0 0 8px 0; text-align:center;">Reserva cancelada
+      </h1>
+      <p style="color:#334155; margin:0 0 8px 0; text-align:center;">Estimado/a <strong>{full_name}</strong>,</p>
+      <p style="color:#334155; margin:0 0 24px 0; text-align:center;">Lamentamos informarte que tu reserva ha sido
+        cancelada. Si no solicitaste esta cancelación, por favor contáctanos de inmediato.</p>
+
+      <!-- Código de reserva (estilo consistente) -->
+      <table align="center" cellpadding="0" cellspacing="0" border="0"
+        style="background-color:#f1f5f9; border-radius:40px; margin:0 auto 24px auto;">
+        <tr>
+          <td style="padding:8px 18px;">
+            <span
+              style="font-family:monospace; font-size:18px; font-weight:600; color:{company_primary_color};">{reservation_code}</span>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Tarjeta de detalles (solo tipo de viaje y ruta) -->
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"
+        style="background-color:#f8fafc; border-radius:16px; border:1px solid #e2e8f0; margin-bottom:24px;">
+        <tr>
+          <td style="padding:20px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <!-- Fila: Tipo de viaje -->
+              <tr>
+                <td style="padding-bottom:12px;">
+                  <strong style="color:#334155;">Tipo de viaje</strong><br>
+                  <span style="color:#1e293b;">{tryp_type}</span>
+                </td>
+              </tr>
+              <!-- Fila: Ruta principal -->
+              <tr>
+                <td style="padding-bottom:0;">
+                  <strong style="color:#334155;">Ruta principal</strong><br>
+                  <span style="color:#1e293b;">{flight_origin} → {flight_destination}</span>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- No hay botón en este caso, solo información -->
+    </td>
+  </tr>
+</table>

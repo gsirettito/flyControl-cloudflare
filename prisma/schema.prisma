@@ -1,0 +1,347 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client"
+  output   = "../generate/prisma/"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// Usuario del panel de control (dueño de aplicaciones)
+model User {
+  id            String    @id @default(cuid())
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  name          String?
+  password      String?
+  phone         String?
+  isAdmin       Boolean   @default(false)
+  isSuperAdmin  Boolean   @default(false)
+  isManager     Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  // Relaciones
+  accounts           Account[]
+  sessions           Session[]
+  verificationTokens VerificationToken[]
+  company            Company?            @relation(fields: [companyId], references: [id], onDelete: SetNull)
+  companyId          String?
+  reservations       Reservation[]
+  notifications Notification[]
+
+  // Índices
+  @@index([email])
+  @@index([name])
+  @@index([createdAt])
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+  user       User?    @relation(fields: [userId], references: [id])
+  userId     String?
+
+  @@unique([identifier, token])
+}
+
+model TrakingView {
+  id          String   @id @default(uuid()) @db.Uuid
+  ip          String   @db.Text // Dirección IP del visitante
+  country     String?  @db.VarChar(100) // País (derivado de IP)
+  countryName String?  @db.VarChar(100) // nombre del país (ej. "United States")
+  url         String   @db.Text // Ruta completa de la página visitada
+  sessionId   String   @db.Text // Identificador de sesión (para visitas únicas)
+  userAgent   String?  @db.Text // User-Agent opcional (navegador, dispositivo)
+  referrer    String?  @db.Text // Página de origen
+  createdAt   DateTime @default(now()) // Fecha y hora de la visita
+
+  @@index([createdAt])
+  @@index([url])
+  @@index([sessionId])
+}
+
+model Company {
+  id                        String  @id @default(cuid())
+  commercialName            String  @unique // nombre comercial (único)
+  logoUrl                   String // URL del logo principal
+  primaryColor              String  @default("#000000") // color primario (hex)
+  secondaryColor            String  @default("#ffffff") // color secundario (hex)
+  textColor                 String  @default("#000000") // color de texto (hex)
+  phone                     String // teléfono empresa
+  email                     String? // teléfono empresa
+  address                   String  @db.Text // dirección
+  ticketPrefix              String  @default("TKT") // prefijo de tickets/reservas (ej. "FLY", "TKT")
+  preReservationExpiryHours Int     @default(24) // expiración de pre-reserva en horas
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relaciones
+  users        User[]
+  reservations Reservation[]
+  clients      Client[]
+  flights      Flight[]
+  notifications Notification[]
+  invoices Invoice[]
+
+  notifySmsConfirm      Boolean @default(false)
+  notifyEmailConfirm    Boolean @default(false)
+  notifyManagerEmail    Boolean @default(false)
+  notifyFlightReminders Boolean @default(false)
+
+  @@index([commercialName])
+}
+
+model Airline {
+  id           String  @id @default(cuid())
+  iata         String  @unique @map("iata") // Código IATA (2 letras, ej. "AA")
+  icao         String  @unique @map("icao") // Código ICAO (3 letras, ej. "AAL")
+  officialName String  @map("official_name") // Nombre oficial (ej. "American Airlines, Inc.")
+  displayName  String  @map("display_name") // Nombre visible (ej. "American Airlines")
+  logoUrl      String? @map("logo_url") // URL del logo (opcional)
+  active       Boolean @default(true) // ¿Activa?
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  flights Flight[]
+
+  @@index([iata])
+  @@index([icao])
+  @@index([active])
+  @@map("airlines")
+}
+
+enum FlightClass {
+  ECONOMY
+  BUSINESS
+  FIRST
+}
+
+model Flight {
+  id                          String                       @id @default(cuid())
+  flightNumber                String                       @map("flight_number") // Número de vuelo (ej. "AA123")
+  airlineId                   String                       @map("airline_id")
+  airline                     Airline                      @relation(fields: [airlineId], references: [id], onDelete: Restrict)
+  departureTime               DateTime                     @map("departure_time")
+  arrivalTime                 DateTime                     @map("arrival_time")
+  origin                      String // Código IATA de origen (3 letras)
+  destination                 String // Código IATA de destino (3 letras)
+  class                       FlightClass                  @map("class")
+  availableSeats              Int                          @default(0) @map("available_seats")
+  originName                  String?                      @map("origin_name") // Nombre del aeropuerto de origen
+  destinationName             String?                      @map("destination_name") // Nombre del aeropuerto de destino
+  originTimezone              String?                      @map("origin_timezone")
+  destinationTimezone         String?                      @map("destination_timezone")
+  createdAt                   DateTime                     @default(now()) @map("created_at")
+  updatedAt                   DateTime                     @updatedAt @map("updated_at")
+  isVisible                   Boolean                      @default(true)
+  reservationDepartureFlights ReservationDepartureFlight[]
+  reservationReturnFlights    ReservationReturnFlight[]
+
+  company   Company? @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  companyId String?
+
+  // Índices y restricciones
+  @@unique([companyId, airlineId, flightNumber, departureTime, class]) // Evita duplicados
+  @@index([departureTime])
+  @@index([origin, destination])
+  @@index([airlineId])
+  @@map("flights")
+}
+
+enum ClientType {
+  INFANT // 0-23 meses
+  CHILD // 2-11 años
+  ADULT // 12+ años
+}
+
+model Client {
+  id                 String     @id @default(cuid())
+  fullName           String     @map("full_name")
+  passportNumber     String     @unique @map("passport_number")
+  email              String?
+  phone              String
+  passportIssueDate  DateTime?  @map("passport_issue_date")
+  passportExpiryDate DateTime   @map("passport_expiry_date")
+  type               ClientType
+  nationality        String
+  birthDate          DateTime   @map("birth_date")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // Relaciones futuras: reservas (Reservation)
+  reservations Reservation[]
+  company      Company       @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  companyId    String
+  invoices Invoice[]
+
+  @@index([fullName])
+  @@index([passportNumber])
+  @@index([type])
+  @@map("clients")
+}
+
+enum TripType {
+  ONE_WAY
+  ROUND_TRIP
+}
+
+enum ReservationStatus {
+  PENDING
+  CONFIRMED
+  REJECTED
+}
+
+model ReservationDepartureFlight {
+  reservationId String
+  flightId      String
+  reservation   Reservation @relation(fields: [reservationId], references: [id], onDelete: Cascade)
+  flight        Flight      @relation(fields: [flightId], references: [id], onDelete: Cascade)
+
+  @@id([reservationId, flightId])
+  @@map("reservation_departure_flights")
+}
+
+model ReservationReturnFlight {
+  reservationId String
+  flightId      String
+  reservation   Reservation @relation(fields: [reservationId], references: [id], onDelete: Cascade)
+  flight        Flight      @relation(fields: [flightId], references: [id], onDelete: Cascade)
+
+  @@id([reservationId, flightId])
+  @@map("reservation_return_flights")
+}
+
+model Reservation {
+  id               String                       @id @default(cuid())
+  reservationCode  String                       @unique
+  tripType         TripType
+  departureFlights ReservationDepartureFlight[]
+  returnFlights    ReservationReturnFlight[]
+  passengerId      String                       @map("passenger_id")
+  passenger        Client                       @relation(fields: [passengerId], references: [id], onDelete: Restrict)
+  createdByUserId  String                       @map("created_by_user_id")
+  createdBy        User                         @relation(fields: [createdByUserId], references: [id], onDelete: Restrict)
+  companyId        String                       @map("company_id")
+  company          Company                      @relation(fields: [companyId], references: [id], onDelete: Restrict)
+  baggage          String
+  invoiceAmount    Float?                       @map("invoice_amount")
+  invoiceCurrency  String?                      @map("invoice_currency")
+  status           ReservationStatus            @default(PENDING)
+  pnr              String?
+  ticketNumber     String?                      @map("ticket_number")
+  pdfURL           String?
+  createdAt        DateTime                     @default(now()) @map("created_at")
+  updatedAt        DateTime                     @updatedAt @map("updated_at")
+
+  sent24hReminder Boolean @default(false)
+  sent4hReminder  Boolean @default(false)
+
+  invoices      InvoiceItem[]
+
+  @@index([reservationCode])
+  @@index([passengerId])
+  @@index([createdByUserId])
+  @@index([companyId])
+  @@index([status])
+  @@map("reservations")
+}
+
+model Notification {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  companyId String
+  company   Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  
+  title     String
+  message   String
+  type      String   @default("INFO") // INFO, SUCCESS, WARNING, ERROR
+  link      String?  // Ej: "/reservations/list?id=..."
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([companyId])
+  @@map("notifications")
+}
+
+// ==========================================
+// NUEVO MODELO: FACTURACIÓN INDEPENDIENTE
+// ==========================================
+model Invoice {
+  id            String   @id @default(cuid())
+  invoiceNumber String   @unique // Ej: FAC-000001
+  companyId     String
+  company       Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  
+  clientId      String?  
+  client        Client?  @relation(fields: [clientId], references: [id], onDelete: SetNull)
+
+  totalAmount   Float    @default(0) // Se calcula sumando los items
+  currency      String   @default("USD")
+  status        String   @default("PENDING") // PENDING, PAID, CANCELLED
+  
+  pdfURL        String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  items         InvoiceItem[] // 👈 Nueva relación
+
+  @@index([companyId])
+  @@index([clientId])
+  @@map("invoices")
+}
+
+model InvoiceItem {
+  id            String   @id @default(cuid())
+  invoiceId     String
+  invoice       Invoice  @relation(fields: [invoiceId], references: [id], onDelete: Cascade)
+  
+  description   String   @db.Text // Ej: "Vuelo HA123", "Hotel 3 noches"
+  amount        Float
+  quantity      Int      @default(1) // Por si hay múltiples pasajeros o noches
+  
+  // Relación opcional a la reserva (si el servicio es un vuelo)
+  reservationId String?
+  reservation   Reservation? @relation(fields: [reservationId], references: [id], onDelete: SetNull)
+
+  @@index([invoiceId])
+  @@index([reservationId])
+  @@map("invoice_items")
+}

@@ -1,0 +1,2708 @@
+[
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZY.png",
+    "officialName": "Ada Air",
+    "iata": "ZY",
+    "icao": "ADE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JP.png",
+    "officialName": "Adria Airways",
+    "iata": "JP",
+    "icao": "ADR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/A3.png",
+    "officialName": "Aegean Airlines",
+    "iata": "A3",
+    "icao": "AEE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EI.png",
+    "officialName": "Aer Lingus",
+    "iata": "EI",
+    "icao": "EIN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AJ.png",
+    "officialName": "Aero Contractors",
+    "iata": "AJ",
+    "icao": "NIG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SU.png",
+    "officialName": "Aeroflot",
+    "iata": "SU",
+    "icao": "AFL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XZ.png",
+    "officialName": "Aeroitalia",
+    "iata": "XZ",
+    "icao": "AEZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AR.png",
+    "officialName": "Aerolineas Argentinas",
+    "iata": "AR",
+    "icao": "ARG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3S.png",
+    "officialName": "AeroLogic",
+    "iata": "3S",
+    "icao": "BOX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AM.png",
+    "officialName": "Aeromexico",
+    "iata": "AM",
+    "icao": "AMX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/J7.png",
+    "officialName": "Afrijet",
+    "iata": "J7",
+    "icao": "ABS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/8U.png",
+    "officialName": "Afriqiyah Airways",
+    "iata": "8U",
+    "icao": "AAW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZI.png",
+    "officialName": "Aigle Azur",
+    "iata": "ZI",
+    "icao": "AAF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AH.png",
+    "officialName": "Air Algerie",
+    "iata": "AH",
+    "icao": "DAH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/6I.png",
+    "officialName": "Air Alsie",
+    "iata": "6I",
+    "icao": "IBZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WP.png",
+    "officialName": "Air Antwerp",
+    "iata": "WP",
+    "icao": "MKU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/G9.png",
+    "officialName": "Air Arabia",
+    "iata": "G9",
+    "icao": "ABY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3L.png",
+    "officialName": "Air Arabia Abu Dhabi",
+    "iata": "3L",
+    "icao": "ADY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/E5.png",
+    "officialName": "Air Arabia Egypt",
+    "iata": "E5",
+    "icao": "RBG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3O.png",
+    "officialName": "Air Arabia Maroc",
+    "iata": "3O",
+    "icao": "MAC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KC.png",
+    "officialName": "Air Astana",
+    "iata": "KC",
+    "icao": "KZR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UU.png",
+    "officialName": "Air Austral",
+    "iata": "UU",
+    "icao": "REU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KF.png",
+    "officialName": "Air Belgium",
+    "iata": "KF",
+    "icao": "ABB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BP.png",
+    "officialName": "Air Botswana",
+    "iata": "BP",
+    "icao": "BOT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2J.png",
+    "officialName": "Air Burkina",
+    "iata": "2J",
+    "icao": "VBW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BX.png",
+    "officialName": "Air Busan",
+    "iata": "BX",
+    "icao": "ABL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SM.png",
+    "officialName": "Air Cairo",
+    "iata": "SM",
+    "icao": "MSC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TY.png",
+    "officialName": "Air Caledonie",
+    "iata": "TY",
+    "icao": "TPC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AC.png",
+    "officialName": "Air Canada",
+    "iata": "AC",
+    "icao": "ACA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RV.png",
+    "officialName": "Air Canada Rouge",
+    "iata": "RV",
+    "icao": "ROU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TX.png",
+    "officialName": "Air Caraibes",
+    "iata": "TX",
+    "icao": "FWI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9H.png",
+    "officialName": "Air Changan",
+    "iata": "9H",
+    "icao": "CGN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CA.png",
+    "officialName": "Air China",
+    "iata": "CA",
+    "icao": "CCA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XK.png",
+    "officialName": "Air Corsica",
+    "iata": "XK",
+    "icao": "CCM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HF.png",
+    "officialName": "Air Cote d Ivoire",
+    "iata": "HF",
+    "icao": "VRE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YN.png",
+    "officialName": "Air Creebec",
+    "iata": "YN",
+    "icao": "CRQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HD.png",
+    "officialName": "Air Do",
+    "iata": "HD",
+    "icao": "ADO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EN.png",
+    "officialName": "Air Dolomiti",
+    "iata": "EN",
+    "icao": "DLA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UX.png",
+    "officialName": "Air Europa",
+    "iata": "UX",
+    "icao": "AEA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AF.png",
+    "officialName": "Air France",
+    "iata": "AF",
+    "icao": "AFR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GL.png",
+    "officialName": "Air Greenland",
+    "iata": "GL",
+    "icao": "GRL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GT.png",
+    "officialName": "Air Guilin",
+    "iata": "GT",
+    "icao": "CGH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AI.png",
+    "officialName": "Air India",
+    "iata": "AI",
+    "icao": "AIC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IX.png",
+    "officialName": "Air India Express",
+    "iata": "IX",
+    "icao": "AXB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3H.png",
+    "officialName": "Air Inuit",
+    "iata": "3H",
+    "icao": "AIE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IG.png",
+    "officialName": "Air Italy",
+    "iata": "IG",
+    "icao": "ISS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NX.png",
+    "officialName": "Air Macau",
+    "iata": "NX",
+    "icao": "AMU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MD.png",
+    "officialName": "Air Madagascar",
+    "iata": "MD",
+    "icao": "MDG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QM.png",
+    "officialName": "Air Malawi",
+    "iata": "QM",
+    "icao": "AML"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZM.png",
+    "officialName": "Air Manas",
+    "iata": "ZM",
+    "icao": "MBB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MK.png",
+    "officialName": "Air Mauritius",
+    "iata": "MK",
+    "icao": "MAU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MV.png",
+    "officialName": "Air Mediterranean",
+    "iata": "MV",
+    "icao": "LPR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9U.png",
+    "officialName": "Air Moldova",
+    "iata": "9U",
+    "icao": "MLD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NZ.png",
+    "officialName": "Air New Zealand",
+    "iata": "NZ",
+    "icao": "ANZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PX.png",
+    "officialName": "Air Niugini",
+    "iata": "PX",
+    "icao": "ANG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4N.png",
+    "officialName": "Air North",
+    "iata": "4N",
+    "icao": "ANT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YW.png",
+    "officialName": "Air Nostrum",
+    "iata": "YW",
+    "icao": "ANE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/7P.png",
+    "officialName": "Air Panama",
+    "iata": "7P",
+    "icao": "PST"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YP.png",
+    "officialName": "Air Premia",
+    "iata": "YP",
+    "icao": "APZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RS.png",
+    "officialName": "Air Seoul",
+    "iata": "RS",
+    "icao": "ASV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JU.png",
+    "officialName": "Air Serbia",
+    "iata": "JU",
+    "icao": "ASL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HM.png",
+    "officialName": "Air Seychelles",
+    "iata": "HM",
+    "icao": "SEY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VT.png",
+    "officialName": "Air Tahiti",
+    "iata": "VT",
+    "icao": "VTA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TN.png",
+    "officialName": "Air Tahiti Nui",
+    "iata": "TN",
+    "icao": "THT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TC.png",
+    "officialName": "Air Tanzania",
+    "iata": "TC",
+    "icao": "ATC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TS.png",
+    "officialName": "Air Transat",
+    "iata": "TS",
+    "icao": "TSC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZW.png",
+    "officialName": "Air Wisconsin",
+    "iata": "ZW",
+    "icao": "AWI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AK.png",
+    "officialName": "AirAsia",
+    "iata": "AK",
+    "icao": "AXM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/I5.png",
+    "officialName": "AirAsia India",
+    "iata": "I5",
+    "icao": "IAD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/D7.png",
+    "officialName": "AirAsia X",
+    "iata": "D7",
+    "icao": "XAX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BT.png",
+    "officialName": "airBaltic",
+    "iata": "BT",
+    "icao": "BTI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SB.png",
+    "officialName": "Aircalin",
+    "iata": "SB",
+    "icao": "ACI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TL.png",
+    "officialName": "Airnorth",
+    "iata": "TL",
+    "icao": "ANO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PF.png",
+    "officialName": "AirSial",
+    "iata": "PF",
+    "icao": "SIF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VF.png",
+    "officialName": "AJet",
+    "iata": "VF",
+    "icao": "VLU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AS.png",
+    "officialName": "Alaska Airlines",
+    "iata": "AS",
+    "icao": "ASA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AP.png",
+    "officialName": "AlbaStar",
+    "iata": "AP",
+    "icao": "LAV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2B.png",
+    "officialName": "Albawings",
+    "iata": "2B",
+    "icao": "AWT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NH.png",
+    "officialName": "All Nippon Airways",
+    "iata": "NH",
+    "icao": "ANA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/G4.png",
+    "officialName": "Allegiant Air",
+    "iata": "G4",
+    "icao": "AAY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/6R.png",
+    "officialName": "Alrosa Air Company",
+    "iata": "6R",
+    "icao": "DRU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AA.png",
+    "officialName": "American Airlines",
+    "iata": "AA",
+    "icao": "AAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/M6.png",
+    "officialName": "Amerijet International",
+    "iata": "M6",
+    "icao": "AJT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Q3.png",
+    "officialName": "Anguilla Air Services",
+    "iata": "Q3",
+    "icao": "AAX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DM.png",
+    "officialName": "Arajet",
+    "iata": "DM",
+    "icao": "DWI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FG.png",
+    "officialName": "Ariana Afghan Airlines",
+    "iata": "FG",
+    "icao": "AFG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/W3.png",
+    "officialName": "Arik Air",
+    "iata": "W3",
+    "icao": "ARA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IZ.png",
+    "officialName": "Arkia",
+    "iata": "IZ",
+    "icao": "AIZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/R7.png",
+    "officialName": "Aserca Airlines",
+    "iata": "R7",
+    "icao": "OCA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OZ.png",
+    "officialName": "Asiana Airlines",
+    "iata": "OZ",
+    "icao": "AAR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3V.png",
+    "officialName": "ASL Airlines Belgium",
+    "iata": "3V",
+    "icao": "TAY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5O.png",
+    "officialName": "ASL Airlines France",
+    "iata": "5O",
+    "icao": "FPO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RC.png",
+    "officialName": "Atlantic Airways",
+    "iata": "RC",
+    "icao": "FLI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5Y.png",
+    "officialName": "Atlas Air",
+    "iata": "5Y",
+    "icao": "GTI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UI.png",
+    "officialName": "Auric Air",
+    "iata": "UI",
+    "icao": "AUK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GR.png",
+    "officialName": "Aurigny",
+    "iata": "GR",
+    "icao": "AUR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HZ.png",
+    "officialName": "Aurora Airlines",
+    "iata": "HZ",
+    "icao": "SHU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OS.png",
+    "officialName": "Austrian Airlines",
+    "iata": "OS",
+    "icao": "AUA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AV.png",
+    "officialName": "Avianca",
+    "iata": "AV",
+    "icao": "AVA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/O6.png",
+    "officialName": "Avianca Brasil",
+    "iata": "O6",
+    "icao": "ONE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LR.png",
+    "officialName": "Avianca Costa Rica",
+    "iata": "LR",
+    "icao": "LRC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2K.png",
+    "officialName": "Avianca Ecuador",
+    "iata": "2K",
+    "icao": "GLG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TA.png",
+    "officialName": "Avianca El Salvador",
+    "iata": "TA",
+    "icao": "TAI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/X9.png",
+    "officialName": "Avion Express",
+    "iata": "X9",
+    "icao": "NVD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/J2.png",
+    "officialName": "Azerbaijan Airlines",
+    "iata": "J2",
+    "icao": "AHY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/A4.png",
+    "officialName": "Azimuth Airlines",
+    "iata": "A4",
+    "icao": "AZO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/S4.png",
+    "officialName": "Azores Airlines",
+    "iata": "S4",
+    "icao": "RZO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AD.png",
+    "officialName": "Azul Brazilian Airlines",
+    "iata": "AD",
+    "icao": "AZU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZF.png",
+    "officialName": "Azur Air",
+    "iata": "ZF",
+    "icao": "AZV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/J4.png",
+    "officialName": "Badr Airlines",
+    "iata": "J4",
+    "icao": "BDR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UP.png",
+    "officialName": "Bahamasair",
+    "iata": "UP",
+    "icao": "BHS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PG.png",
+    "officialName": "Bangkok Airways",
+    "iata": "PG",
+    "icao": "BKP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ID.png",
+    "officialName": "Batik Air",
+    "iata": "ID",
+    "icao": "BTK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OD.png",
+    "officialName": "Batik Air Malaysia",
+    "iata": "OD",
+    "icao": "MXD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JV.png",
+    "officialName": "Bearskin Airlines",
+    "iata": "JV",
+    "icao": "BLS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Z9.png",
+    "officialName": "Bek Air",
+    "iata": "Z9",
+    "icao": "MYM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/B2.png",
+    "officialName": "Belavia",
+    "iata": "B2",
+    "icao": "BRU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BG.png",
+    "officialName": "Biman Bangladesh Airlines",
+    "iata": "BG",
+    "icao": "BBC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NT.png",
+    "officialName": "Binter Canarias",
+    "iata": "NT",
+    "icao": "IBB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/0B.png",
+    "officialName": "Blue Air",
+    "iata": "0B",
+    "icao": "BMS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4B.png",
+    "officialName": "Boutique Air",
+    "iata": "4B",
+    "icao": "BTQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BA.png",
+    "officialName": "British Airways",
+    "iata": "BA",
+    "icao": "BAW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SN.png",
+    "officialName": "Brussels Airlines",
+    "iata": "SN",
+    "icao": "BEL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FB.png",
+    "officialName": "Bulgaria Air",
+    "iata": "FB",
+    "icao": "LZB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/A7.png",
+    "officialName": "Calafia Airlines",
+    "iata": "A7",
+    "icao": "MPD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/K6.png",
+    "officialName": "Cambodia Angkor Air",
+    "iata": "K6",
+    "icao": "KHV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5T.png",
+    "officialName": "Canadian North",
+    "iata": "5T",
+    "icao": "MPE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/C6.png",
+    "officialName": "CanJet",
+    "iata": "C6",
+    "icao": "CJA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9K.png",
+    "officialName": "Cape Air",
+    "iata": "9K",
+    "icao": "KAP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/W8.png",
+    "officialName": "Cargojet Airways",
+    "iata": "W8",
+    "icao": "CJT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BW.png",
+    "officialName": "Caribbean Airlines",
+    "iata": "BW",
+    "icao": "BWA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KA.png",
+    "officialName": "Cathay Dragon",
+    "iata": "KA",
+    "icao": "HDA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CX.png",
+    "officialName": "Cathay Pacific",
+    "iata": "CX",
+    "icao": "CPA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DG.png",
+    "officialName": "Cebgo",
+    "iata": "DG",
+    "icao": "SRQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5J.png",
+    "officialName": "Cebu Pacific",
+    "iata": "5J",
+    "icao": "CEB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/C2.png",
+    "officialName": "Ceiba Intercontinental",
+    "iata": "C2",
+    "icao": "CEL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5Z.png",
+    "officialName": "CemAir",
+    "iata": "5Z",
+    "icao": "KEM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9M.png",
+    "officialName": "Central Mountain Air",
+    "iata": "9M",
+    "icao": "GLR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GM.png",
+    "officialName": "Chair Airlines",
+    "iata": "GM",
+    "icao": "GSW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CI.png",
+    "officialName": "China Airlines",
+    "iata": "CI",
+    "icao": "CAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MU.png",
+    "officialName": "China Eastern Airlines",
+    "iata": "MU",
+    "icao": "CES"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/8Y.png",
+    "officialName": "China Postal Airlines",
+    "iata": "8Y",
+    "icao": "CYZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CZ.png",
+    "officialName": "China Southern Airlines",
+    "iata": "CZ",
+    "icao": "CSN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KN.png",
+    "officialName": "China United Airlines",
+    "iata": "KN",
+    "icao": "CUA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QG.png",
+    "officialName": "Citilink",
+    "iata": "QG",
+    "icao": "CTV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MN.png",
+    "officialName": "Comair",
+    "iata": "MN",
+    "icao": "CAW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DE.png",
+    "officialName": "Condor",
+    "iata": "DE",
+    "icao": "CFG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CO.png",
+    "officialName": "Continental Airlines",
+    "iata": "CO",
+    "icao": "COA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/V0.png",
+    "officialName": "Conviasa",
+    "iata": "V0",
+    "icao": "VCV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CM.png",
+    "officialName": "Copa Airlines",
+    "iata": "CM",
+    "icao": "CMP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XC.png",
+    "officialName": "Corendon Airlines",
+    "iata": "XC",
+    "icao": "CAI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XR.png",
+    "officialName": "Corendon Airlines Europe",
+    "iata": "XR",
+    "icao": "CXI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SS.png",
+    "officialName": "Corsair",
+    "iata": "SS",
+    "icao": "CRL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OU.png",
+    "officialName": "Croatia Airlines",
+    "iata": "OU",
+    "icao": "CTN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CU.png",
+    "officialName": "Cubana de Aviacion",
+    "iata": "CU",
+    "icao": "CUB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/CY.png",
+    "officialName": "Cyprus Airways",
+    "iata": "CY",
+    "icao": "CYP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OK.png",
+    "officialName": "Czech Airlines",
+    "iata": "OK",
+    "icao": "CSA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/0D.png",
+    "officialName": "Darwin Airline",
+    "iata": "0D",
+    "icao": "DWT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DL.png",
+    "officialName": "Delta Air Lines",
+    "iata": "DL",
+    "icao": "DAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DH.png",
+    "officialName": "DHL Aero Expreso",
+    "iata": "DH",
+    "icao": "DVA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/D0.png",
+    "officialName": "DHL Air UK",
+    "iata": "D0",
+    "icao": "DHK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4Y.png",
+    "officialName": "Discover Airlines",
+    "iata": "4Y",
+    "icao": "OCN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Z6.png",
+    "officialName": "Dniproavia",
+    "iata": "Z6",
+    "icao": "UDN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2D.png",
+    "officialName": "Eastern Airlines",
+    "iata": "2D",
+    "icao": "EAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/T3.png",
+    "officialName": "Eastern Airways",
+    "iata": "T3",
+    "icao": "EZE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/U2.png",
+    "officialName": "easyJet",
+    "iata": "U2",
+    "icao": "EZY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WK.png",
+    "officialName": "Edelweiss Air",
+    "iata": "WK",
+    "icao": "EDW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MS.png",
+    "officialName": "EgyptAir",
+    "iata": "MS",
+    "icao": "MSR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LY.png",
+    "officialName": "El Al",
+    "iata": "LY",
+    "icao": "ELY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EL.png",
+    "officialName": "Ellinair",
+    "iata": "EL",
+    "icao": "ELB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EK.png",
+    "officialName": "Emirates",
+    "iata": "EK",
+    "icao": "UAE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9E.png",
+    "officialName": "Endeavor Air",
+    "iata": "9E",
+    "icao": "EDV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/B8.png",
+    "officialName": "Eritrean Airlines",
+    "iata": "B8",
+    "icao": "ERT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/E7.png",
+    "officialName": "Estafeta Carga Aerea",
+    "iata": "E7",
+    "icao": "ESF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ET.png",
+    "officialName": "Ethiopian Airlines",
+    "iata": "ET",
+    "icao": "ETH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EY.png",
+    "officialName": "Etihad Airways",
+    "iata": "EY",
+    "icao": "ETD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Q4.png",
+    "officialName": "Euroairlines",
+    "iata": "Q4",
+    "icao": "TLB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EW.png",
+    "officialName": "Eurowings",
+    "iata": "EW",
+    "icao": "EWG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/E2.png",
+    "officialName": "Eurowings Europe",
+    "iata": "E2",
+    "icao": "EWE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BR.png",
+    "officialName": "EVA Air",
+    "iata": "BR",
+    "icao": "EVA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FJ.png",
+    "officialName": "Fiji Airways",
+    "iata": "FJ",
+    "icao": "FJI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AY.png",
+    "officialName": "Finnair",
+    "iata": "AY",
+    "icao": "FIN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/W2.png",
+    "officialName": "FlexFlight",
+    "iata": "W2",
+    "icao": "FXT"
+  },
+  {
+    "logoUrl": "/assets/airlines/fly-allways.png",
+    "officialName": "Fly All Ways",
+    "iata": "8W",
+    "icao": "EDR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5F.png",
+    "officialName": "Fly One",
+    "iata": "5F",
+    "icao": "FIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/F3.png",
+    "officialName": "flyadeal",
+    "iata": "F3",
+    "icao": "FAD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FO.png",
+    "officialName": "Flybondi",
+    "iata": "FO",
+    "icao": "FXX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FZ.png",
+    "officialName": "flydubai",
+    "iata": "FZ",
+    "icao": "FDB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FT.png",
+    "officialName": "FlyEgypt",
+    "iata": "FT",
+    "icao": "FEG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XY.png",
+    "officialName": "flynas",
+    "iata": "XY",
+    "icao": "KNE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/F9.png",
+    "officialName": "Frontier Airlines",
+    "iata": "F9",
+    "icao": "FFT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JH.png",
+    "officialName": "Fuji Dream Airlines",
+    "iata": "JH",
+    "icao": "FDA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GA.png",
+    "officialName": "Garuda Indonesia",
+    "iata": "GA",
+    "icao": "GIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/A9.png",
+    "officialName": "Georgian Airways",
+    "iata": "A9",
+    "icao": "TGZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4U.png",
+    "officialName": "Germanwings",
+    "iata": "4U",
+    "icao": "GWI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/G8.png",
+    "officialName": "Go First",
+    "iata": "G8",
+    "icao": "GOW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/G3.png",
+    "officialName": "GOL Linhas Aereas",
+    "iata": "G3",
+    "icao": "GLO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Y5.png",
+    "officialName": "Golden Myanmar Airlines",
+    "iata": "Y5",
+    "icao": "MGH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YD.png",
+    "officialName": "Gomelavia",
+    "iata": "YD",
+    "icao": "KGB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HB.png",
+    "officialName": "Greater Bay Airlines",
+    "iata": "HB",
+    "icao": "HGB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GX.png",
+    "officialName": "Guangxi Beibu Gulf Airlines",
+    "iata": "GX",
+    "icao": "CBG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GF.png",
+    "officialName": "Gulf Air",
+    "iata": "GF",
+    "icao": "GFA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HR.png",
+    "officialName": "Hahn Air",
+    "iata": "HR",
+    "icao": "HHN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HU.png",
+    "officialName": "Hainan Airlines",
+    "iata": "HU",
+    "icao": "CHH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HA.png",
+    "officialName": "Hawaiian Airlines",
+    "iata": "HA",
+    "icao": "HAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2L.png",
+    "officialName": "Helvetic Airways",
+    "iata": "2L",
+    "icao": "OAW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/H4.png",
+    "officialName": "HiSky",
+    "iata": "H4",
+    "icao": "HYS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/H7.png",
+    "officialName": "HiSky Europe",
+    "iata": "H7",
+    "icao": "HYM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/A5.png",
+    "officialName": "HOP!",
+    "iata": "A5",
+    "icao": "HOP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YS.png",
+    "officialName": "HOP! Regional",
+    "iata": "YS",
+    "icao": "RAE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IB.png",
+    "officialName": "Iberia",
+    "iata": "IB",
+    "icao": "IBE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/I2.png",
+    "officialName": "Iberia Express",
+    "iata": "I2",
+    "icao": "IBS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FI.png",
+    "officialName": "Icelandair",
+    "iata": "FI",
+    "icao": "ICE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IK.png",
+    "officialName": "Ikar",
+    "iata": "IK",
+    "icao": "KAR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/6E.png",
+    "officialName": "IndiGo",
+    "iata": "6E",
+    "icao": "IGO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QZ.png",
+    "officialName": "Indonesia AirAsia",
+    "iata": "QZ",
+    "icao": "AWQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JY.png",
+    "officialName": "interCaribbean Airways",
+    "iata": "JY",
+    "icao": "IWY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4O.png",
+    "officialName": "Interjet",
+    "iata": "4O",
+    "icao": "AIJ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IR.png",
+    "officialName": "Iran Air",
+    "iata": "IR",
+    "icao": "IRA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/B9.png",
+    "officialName": "Iran Airtour",
+    "iata": "B9",
+    "icao": "IRB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/6H.png",
+    "officialName": "Israir Airlines",
+    "iata": "6H",
+    "icao": "ISR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AZ.png",
+    "officialName": "ITA Airways",
+    "iata": "AZ",
+    "icao": "ITY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/I8.png",
+    "officialName": "Izhavia",
+    "iata": "I8",
+    "icao": "IZA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JM.png",
+    "officialName": "Jambojet",
+    "iata": "JM",
+    "icao": "JMA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JC.png",
+    "officialName": "Japan Air Commuter",
+    "iata": "JC",
+    "icao": "JEX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JL.png",
+    "officialName": "Japan Airlines",
+    "iata": "JL",
+    "icao": "JAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/J9.png",
+    "officialName": "Jazeera Airways",
+    "iata": "J9",
+    "icao": "JZR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QK.png",
+    "officialName": "Jazz Aviation",
+    "iata": "QK",
+    "icao": "JZA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/7C.png",
+    "officialName": "Jeju Air",
+    "iata": "7C",
+    "icao": "JJA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9W.png",
+    "officialName": "Jet Airways",
+    "iata": "9W",
+    "icao": "JAI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JF.png",
+    "officialName": "Jet Asia Airways",
+    "iata": "JF",
+    "icao": "JAA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LS.png",
+    "officialName": "Jet2.com",
+    "iata": "LS",
+    "icao": "EXS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/B6.png",
+    "officialName": "JetBlue",
+    "iata": "B6",
+    "icao": "JBU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JA.png",
+    "officialName": "JetSMART",
+    "iata": "JA",
+    "icao": "JAT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JQ.png",
+    "officialName": "Jetstar Airways",
+    "iata": "JQ",
+    "icao": "JST"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3K.png",
+    "officialName": "Jetstar Asia Airways",
+    "iata": "3K",
+    "icao": "JSA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GK.png",
+    "officialName": "Jetstar Japan",
+    "iata": "GK",
+    "icao": "JJP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JO.png",
+    "officialName": "Jettime",
+    "iata": "JO",
+    "icao": "JTG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/R5.png",
+    "officialName": "Jordan Aviation",
+    "iata": "R5",
+    "icao": "JAV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XE.png",
+    "officialName": "JSX",
+    "iata": "XE",
+    "icao": "JSX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HO.png",
+    "officialName": "Juneyao Air",
+    "iata": "HO",
+    "icao": "DKH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/K4.png",
+    "officialName": "Kalitta Air",
+    "iata": "K4",
+    "icao": "CKS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/K9.png",
+    "officialName": "Kalitta Charters",
+    "iata": "K9",
+    "icao": "KFS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RQ.png",
+    "officialName": "Kam Air",
+    "iata": "RQ",
+    "icao": "KMF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/M5.png",
+    "officialName": "Kenmore Air",
+    "iata": "M5",
+    "icao": "KEN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KQ.png",
+    "officialName": "Kenya Airways",
+    "iata": "KQ",
+    "icao": "KQA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KL.png",
+    "officialName": "KLM Royal Dutch Airlines",
+    "iata": "KL",
+    "icao": "KLM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KM.png",
+    "officialName": "KM Malta Airlines",
+    "iata": "KM",
+    "icao": "AMC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KW.png",
+    "officialName": "Korea Express Air",
+    "iata": "KW",
+    "icao": "KHK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KE.png",
+    "officialName": "Korean Air",
+    "iata": "KE",
+    "icao": "KAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KY.png",
+    "officialName": "Kunming Airlines",
+    "iata": "KY",
+    "icao": "KNA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/KU.png",
+    "officialName": "Kuwait Airways",
+    "iata": "KU",
+    "icao": "KAC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LA.png",
+    "officialName": "LATAM Airlines",
+    "iata": "LA",
+    "icao": "LAN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4M.png",
+    "officialName": "LATAM Argentina",
+    "iata": "4M",
+    "icao": "DSM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JJ.png",
+    "officialName": "LATAM Brasil",
+    "iata": "JJ",
+    "icao": "TAM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/4C.png",
+    "officialName": "LATAM Colombia",
+    "iata": "4C",
+    "icao": "ARE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XL.png",
+    "officialName": "LATAM Ecuador",
+    "iata": "XL",
+    "icao": "LNE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LP.png",
+    "officialName": "LATAM Peru",
+    "iata": "LP",
+    "icao": "LPE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VK.png",
+    "officialName": "Level",
+    "iata": "VK",
+    "icao": "VGN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LI.png",
+    "officialName": "LIAT",
+    "iata": "LI",
+    "icao": "LIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/O2.png",
+    "officialName": "Linear Air",
+    "iata": "O2",
+    "icao": "FLG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JT.png",
+    "officialName": "Lion Air",
+    "iata": "JT",
+    "icao": "LNI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LO.png",
+    "officialName": "LOT Polish Airlines",
+    "iata": "LO",
+    "icao": "LOT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/8L.png",
+    "officialName": "Lucky Air",
+    "iata": "8L",
+    "icao": "LKE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LH.png",
+    "officialName": "Lufthansa",
+    "iata": "LH",
+    "icao": "DLH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LG.png",
+    "officialName": "Luxair",
+    "iata": "LG",
+    "icao": "LGL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/W5.png",
+    "officialName": "Mahan Air",
+    "iata": "W5",
+    "icao": "IRM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MH.png",
+    "officialName": "Malaysia Airlines",
+    "iata": "MH",
+    "icao": "MAS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Q2.png",
+    "officialName": "Maldivian",
+    "iata": "Q2",
+    "icao": "DQA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AE.png",
+    "officialName": "Mandarin Airlines",
+    "iata": "AE",
+    "icao": "MDA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JE.png",
+    "officialName": "Mango",
+    "iata": "JE",
+    "icao": "MNO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/M7.png",
+    "officialName": "MasAir",
+    "iata": "M7",
+    "icao": "MAA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/L6.png",
+    "officialName": "Mauritania Airlines",
+    "iata": "L6",
+    "icao": "MAI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2M.png",
+    "officialName": "Maya Island Air",
+    "iata": "2M",
+    "icao": "MYD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OM.png",
+    "officialName": "MIAT Mongolian Airlines",
+    "iata": "OM",
+    "icao": "MGL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ME.png",
+    "officialName": "Middle East Airlines",
+    "iata": "ME",
+    "icao": "MEA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/M4.png",
+    "officialName": "Mistral Air",
+    "iata": "M4",
+    "icao": "MSA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MB.png",
+    "officialName": "MNG Airlines",
+    "iata": "MB",
+    "icao": "MNB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MW.png",
+    "officialName": "Mokulele Airlines",
+    "iata": "MW",
+    "icao": "MXY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZB.png",
+    "officialName": "Monarch Airlines",
+    "iata": "ZB",
+    "icao": "MON"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YM.png",
+    "officialName": "Montenegro Airlines",
+    "iata": "YM",
+    "icao": "MGX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/8M.png",
+    "officialName": "Myanmar Airways International",
+    "iata": "8M",
+    "icao": "MMA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UB.png",
+    "officialName": "Myanmar National Airlines",
+    "iata": "UB",
+    "icao": "UBA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/N8.png",
+    "officialName": "National Airlines",
+    "iata": "N8",
+    "icao": "NCR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NO.png",
+    "officialName": "Neos",
+    "iata": "NO",
+    "icao": "NOS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RA.png",
+    "officialName": "Nepal Airlines",
+    "iata": "RA",
+    "icao": "RNA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/1I.png",
+    "officialName": "NetJets Aviation",
+    "iata": "1I",
+    "icao": "EJA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2N.png",
+    "officialName": "NextJet",
+    "iata": "2N",
+    "icao": "NTJ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HG.png",
+    "officialName": "Niki",
+    "iata": "HG",
+    "icao": "NLY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NP.png",
+    "officialName": "Nile Air",
+    "iata": "NP",
+    "icao": "NIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XW.png",
+    "officialName": "NokScoot",
+    "iata": "XW",
+    "icao": "NCT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/N7.png",
+    "officialName": "Nordic Regional Airlines",
+    "iata": "N7",
+    "icao": "FCM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Y7.png",
+    "officialName": "NordStar",
+    "iata": "Y7",
+    "icao": "TYA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/N4.png",
+    "officialName": "Nordwind Airlines",
+    "iata": "N4",
+    "icao": "NWS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/J3.png",
+    "officialName": "Northwestern Air",
+    "iata": "J3",
+    "icao": "PLR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/D8.png",
+    "officialName": "Norwegian Air International",
+    "iata": "D8",
+    "icao": "IBK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DY.png",
+    "officialName": "Norwegian Air Shuttle",
+    "iata": "DY",
+    "icao": "NOZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DI.png",
+    "officialName": "Norwegian Air UK",
+    "iata": "DI",
+    "icao": "NRS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VQ.png",
+    "officialName": "Novoair",
+    "iata": "VQ",
+    "icao": "NVQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BK.png",
+    "officialName": "Okay Airways",
+    "iata": "BK",
+    "icao": "OKA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OA.png",
+    "officialName": "Olympic Air",
+    "iata": "OA",
+    "icao": "OAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WY.png",
+    "officialName": "Oman Air",
+    "iata": "WY",
+    "icao": "OMA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/8Q.png",
+    "officialName": "Onur Air",
+    "iata": "8Q",
+    "icao": "OHY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OF.png",
+    "officialName": "Overland Airways",
+    "iata": "OF",
+    "icao": "FIF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BL.png",
+    "officialName": "Pacific Airlines",
+    "iata": "BL",
+    "icao": "PIC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/8P.png",
+    "officialName": "Pacific Coastal Airlines",
+    "iata": "8P",
+    "icao": "PCO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PK.png",
+    "officialName": "Pakistan International Airlines",
+    "iata": "PK",
+    "icao": "PIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2P.png",
+    "officialName": "PAL Express",
+    "iata": "2P",
+    "icao": "GAP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZP.png",
+    "officialName": "Paranair",
+    "iata": "ZP",
+    "icao": "AZQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/P6.png",
+    "officialName": "Pascan Aviation",
+    "iata": "P6",
+    "icao": "PSC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MM.png",
+    "officialName": "Peach Aviation",
+    "iata": "MM",
+    "icao": "APJ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PC.png",
+    "officialName": "Pegasus Airlines",
+    "iata": "PC",
+    "icao": "PGT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PR.png",
+    "officialName": "Philippine Airlines",
+    "iata": "PR",
+    "icao": "PAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Z2.png",
+    "officialName": "Philippines AirAsia",
+    "iata": "Z2",
+    "icao": "EZD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PU.png",
+    "officialName": "Plus Ultra Lineas Aereas",
+    "iata": "PU",
+    "icao": "PUA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DP.png",
+    "officialName": "Pobeda",
+    "iata": "DP",
+    "icao": "PBD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PD.png",
+    "officialName": "Porter Airlines",
+    "iata": "PD",
+    "icao": "POE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PW.png",
+    "officialName": "Precision Air",
+    "iata": "PW",
+    "icao": "PRF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/P0.png",
+    "officialName": "Proflight Zambia",
+    "iata": "P0",
+    "icao": "PFZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QF.png",
+    "officialName": "Qantas",
+    "iata": "QF",
+    "icao": "QFA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QR.png",
+    "officialName": "Qatar Airways",
+    "iata": "QR",
+    "icao": "QTR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/7H.png",
+    "officialName": "Ravn Alaska",
+    "iata": "7H",
+    "icao": "RVF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZL.png",
+    "officialName": "Regional Express",
+    "iata": "ZL",
+    "icao": "RXA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YX.png",
+    "officialName": "Republic Airways",
+    "iata": "YX",
+    "icao": "RPA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FV.png",
+    "officialName": "Rossiya Airlines",
+    "iata": "FV",
+    "icao": "SDM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/AT.png",
+    "officialName": "Royal Air Maroc",
+    "iata": "AT",
+    "icao": "RAM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BI.png",
+    "officialName": "Royal Brunei Airlines",
+    "iata": "BI",
+    "icao": "RBA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RJ.png",
+    "officialName": "Royal Jordanian",
+    "iata": "RJ",
+    "icao": "RJA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5R.png",
+    "officialName": "Rutaca Airlines",
+    "iata": "5R",
+    "icao": "RUC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WB.png",
+    "officialName": "RwandAir",
+    "iata": "WB",
+    "icao": "RWD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FR.png",
+    "officialName": "Ryanair",
+    "iata": "FR",
+    "icao": "RYR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RK.png",
+    "officialName": "Ryanair UK",
+    "iata": "RK",
+    "icao": "RUK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/S7.png",
+    "officialName": "S7 Airlines",
+    "iata": "S7",
+    "icao": "SBI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OV.png",
+    "officialName": "SalamAir",
+    "iata": "OV",
+    "icao": "OMS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZS.png",
+    "officialName": "Sama Airlines",
+    "iata": "ZS",
+    "icao": "SMY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RZ.png",
+    "officialName": "Sansa Airlines",
+    "iata": "RZ",
+    "icao": "LRS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9R.png",
+    "officialName": "SATENA",
+    "iata": "9R",
+    "icao": "NSE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SV.png",
+    "officialName": "Saudia",
+    "iata": "SV",
+    "icao": "SVA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SK.png",
+    "officialName": "Scandinavian Airlines",
+    "iata": "SK",
+    "icao": "SAS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TR.png",
+    "officialName": "Scoot",
+    "iata": "TR",
+    "icao": "TGW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/D2.png",
+    "officialName": "Severstal Aircompany",
+    "iata": "D2",
+    "icao": "SSF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SC.png",
+    "officialName": "Shandong Airlines",
+    "iata": "SC",
+    "icao": "CDG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FM.png",
+    "officialName": "Shanghai Airlines",
+    "iata": "FM",
+    "icao": "CSH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZH.png",
+    "officialName": "Shenzhen Airlines",
+    "iata": "ZH",
+    "icao": "CSZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3U.png",
+    "officialName": "Sichuan Airlines",
+    "iata": "3U",
+    "icao": "CSC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/7L.png",
+    "officialName": "Silk Way West Airlines",
+    "iata": "7L",
+    "icao": "AZG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MI.png",
+    "officialName": "SilkAir",
+    "iata": "MI",
+    "icao": "SLK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/3M.png",
+    "officialName": "Silver Airways",
+    "iata": "3M",
+    "icao": "SIL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SQ.png",
+    "officialName": "Singapore Airlines",
+    "iata": "SQ",
+    "icao": "SIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/H2.png",
+    "officialName": "Sky Airline",
+    "iata": "H2",
+    "icao": "SKU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/DO.png",
+    "officialName": "Sky High Aviation Services",
+    "iata": "DO",
+    "icao": "SHH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/M8.png",
+    "officialName": "SkyJet",
+    "iata": "M8",
+    "icao": "MSQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/BC.png",
+    "officialName": "Skymark Airlines",
+    "iata": "BC",
+    "icao": "SKY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OO.png",
+    "officialName": "SkyWest Airlines",
+    "iata": "OO",
+    "icao": "SKW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SX.png",
+    "officialName": "SkyWork Airlines",
+    "iata": "SX",
+    "icao": "SKB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5N.png",
+    "officialName": "Smartavia",
+    "iata": "5N",
+    "icao": "AUL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/6Y.png",
+    "officialName": "SmartLynx Airlines",
+    "iata": "6Y",
+    "icao": "ART"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/QS.png",
+    "officialName": "Smartwings",
+    "iata": "QS",
+    "icao": "TVS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/6J.png",
+    "officialName": "Solaseed Air",
+    "iata": "6J",
+    "icao": "SNJ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IE.png",
+    "officialName": "Solomon Airlines",
+    "iata": "IE",
+    "icao": "SOL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SZ.png",
+    "officialName": "Somon Air",
+    "iata": "SZ",
+    "icao": "SMR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SA.png",
+    "officialName": "South African Airways",
+    "iata": "SA",
+    "icao": "SAA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WN.png",
+    "officialName": "Southwest Airlines",
+    "iata": "WN",
+    "icao": "SWA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SG.png",
+    "officialName": "SpiceJet",
+    "iata": "SG",
+    "icao": "SEJ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/NK.png",
+    "officialName": "Spirit Airlines",
+    "iata": "NK",
+    "icao": "NKS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9C.png",
+    "officialName": "Spring Airlines",
+    "iata": "9C",
+    "icao": "CQH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IJ.png",
+    "officialName": "Spring Airlines Japan",
+    "iata": "IJ",
+    "icao": "SJO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UL.png",
+    "officialName": "SriLankan Airlines",
+    "iata": "UL",
+    "icao": "ALK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PV.png",
+    "officialName": "St Barth Commuter",
+    "iata": "PV",
+    "icao": "SBU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2I.png",
+    "officialName": "Star Peru",
+    "iata": "2I",
+    "icao": "SRU"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/S9.png",
+    "officialName": "Starbow",
+    "iata": "S9",
+    "icao": "HSA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/7G.png",
+    "officialName": "StarFlyer",
+    "iata": "7G",
+    "icao": "SFJ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RE.png",
+    "officialName": "Stobart Air",
+    "iata": "RE",
+    "icao": "STK"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SY.png",
+    "officialName": "Sun Country Airlines",
+    "iata": "SY",
+    "icao": "SCX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/EZ.png",
+    "officialName": "Sun-Air",
+    "iata": "EZ",
+    "icao": "SUS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XQ.png",
+    "officialName": "SunExpress",
+    "iata": "XQ",
+    "icao": "SXS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WG.png",
+    "officialName": "Sunwing Airlines",
+    "iata": "WG",
+    "icao": "SWG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Y8.png",
+    "officialName": "Suparna Airlines",
+    "iata": "Y8",
+    "icao": "YZR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IU.png",
+    "officialName": "Super Air Jet",
+    "iata": "IU",
+    "icao": "SJV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PY.png",
+    "officialName": "Surinam Airways",
+    "iata": "PY",
+    "icao": "SLM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WT.png",
+    "officialName": "Swiftair",
+    "iata": "WT",
+    "icao": "SWT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/LX.png",
+    "officialName": "Swiss International Air Lines",
+    "iata": "LX",
+    "icao": "SWR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WO.png",
+    "officialName": "Swoop",
+    "iata": "WO",
+    "icao": "WSW"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RB.png",
+    "officialName": "Syrian Air",
+    "iata": "RB",
+    "icao": "SYR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TP.png",
+    "officialName": "TAP Air Portugal",
+    "iata": "TP",
+    "icao": "TAP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YQ.png",
+    "officialName": "TAR Aerolineas",
+    "iata": "YQ",
+    "icao": "LCT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RO.png",
+    "officialName": "TAROM",
+    "iata": "RO",
+    "icao": "ROT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/FD.png",
+    "officialName": "Thai AirAsia",
+    "iata": "FD",
+    "icao": "AIQ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/XJ.png",
+    "officialName": "Thai AirAsia X",
+    "iata": "XJ",
+    "icao": "TAX"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TG.png",
+    "officialName": "Thai Airways",
+    "iata": "TG",
+    "icao": "THA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/SL.png",
+    "officialName": "Thai Lion Air",
+    "iata": "SL",
+    "icao": "TLM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WE.png",
+    "officialName": "Thai Smile",
+    "iata": "WE",
+    "icao": "THD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/GS.png",
+    "officialName": "Tianjin Airlines",
+    "iata": "GS",
+    "icao": "GCR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TV.png",
+    "officialName": "Tibet Airlines",
+    "iata": "TV",
+    "icao": "TBA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/ZT.png",
+    "officialName": "Titan Airways",
+    "iata": "ZT",
+    "icao": "AWC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/C3.png",
+    "officialName": "Trade Air",
+    "iata": "C3",
+    "icao": "TDR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UN.png",
+    "officialName": "Transaero Airlines",
+    "iata": "UN",
+    "icao": "TSO"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HV.png",
+    "officialName": "Transavia",
+    "iata": "HV",
+    "icao": "TRA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TO.png",
+    "officialName": "Transavia France",
+    "iata": "TO",
+    "icao": "TVF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/9N.png",
+    "officialName": "Tropic Air",
+    "iata": "9N",
+    "icao": "TWI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TZ.png",
+    "officialName": "Tsaradia",
+    "iata": "TZ",
+    "icao": "TZP"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/X3.png",
+    "officialName": "TUI fly Deutschland",
+    "iata": "X3",
+    "icao": "TUI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/OR.png",
+    "officialName": "TUI fly Netherlands",
+    "iata": "OR",
+    "icao": "TFL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TU.png",
+    "officialName": "Tunisair",
+    "iata": "TU",
+    "icao": "TAR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TK.png",
+    "officialName": "Turkish Airlines",
+    "iata": "TK",
+    "icao": "THY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/T5.png",
+    "officialName": "Turkmenistan Airlines",
+    "iata": "T5",
+    "icao": "TUA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/U8.png",
+    "officialName": "TUS Airways",
+    "iata": "U8",
+    "icao": "CYF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/TW.png",
+    "officialName": "Tway Air",
+    "iata": "TW",
+    "icao": "TWB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/T7.png",
+    "officialName": "Twin Jet",
+    "iata": "T7",
+    "icao": "TJT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VO.png",
+    "officialName": "Tyrolean Airways",
+    "iata": "VO",
+    "icao": "TYR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PS.png",
+    "officialName": "Ukraine International Airlines",
+    "iata": "PS",
+    "icao": "AUI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/B7.png",
+    "officialName": "Uni Air",
+    "iata": "B7",
+    "icao": "UIA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UA.png",
+    "officialName": "United Airlines",
+    "iata": "UA",
+    "icao": "UAL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5X.png",
+    "officialName": "UPS Airlines",
+    "iata": "5X",
+    "icao": "UPS"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UD.png",
+    "officialName": "UR Airlines",
+    "iata": "UD",
+    "icao": "UBD"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/U6.png",
+    "officialName": "Ural Airlines",
+    "iata": "U6",
+    "icao": "SVR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UQ.png",
+    "officialName": "Urumqi Air",
+    "iata": "UQ",
+    "icao": "CUH"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UT.png",
+    "officialName": "UTair Aviation",
+    "iata": "UT",
+    "icao": "UTA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/RT.png",
+    "officialName": "UVT Aero",
+    "iata": "RT",
+    "icao": "BUG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/HY.png",
+    "officialName": "Uzbekistan Airways",
+    "iata": "HY",
+    "icao": "UZB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/JW.png",
+    "officialName": "Vanilla Air",
+    "iata": "JW",
+    "icao": "VNL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VJ.png",
+    "officialName": "VietJet Air",
+    "iata": "VJ",
+    "icao": "VJC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/0V.png",
+    "officialName": "Vietnam Air Services Company",
+    "iata": "0V",
+    "icao": "VFC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VN.png",
+    "officialName": "Vietnam Airlines",
+    "iata": "VN",
+    "icao": "HVN"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VU.png",
+    "officialName": "Vietravel Airlines",
+    "iata": "VU",
+    "icao": "VAG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VS.png",
+    "officialName": "Virgin Atlantic",
+    "iata": "VS",
+    "icao": "VIR"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VA.png",
+    "officialName": "Virgin Australia",
+    "iata": "VA",
+    "icao": "VOZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/V2.png",
+    "officialName": "Vision Airlines",
+    "iata": "V2",
+    "icao": "RBY"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/UK.png",
+    "officialName": "Vistara",
+    "iata": "UK",
+    "icao": "VTI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VB.png",
+    "officialName": "Viva Aerobus",
+    "iata": "VB",
+    "icao": "VIV"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VH.png",
+    "officialName": "Viva Air Colombia",
+    "iata": "VH",
+    "icao": "VVC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VG.png",
+    "officialName": "VLM Airlines",
+    "iata": "VG",
+    "icao": "VLM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/2Z.png",
+    "officialName": "VoePass Linhas Aereas",
+    "iata": "2Z",
+    "icao": "PTB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Y4.png",
+    "officialName": "Volaris",
+    "iata": "Y4",
+    "icao": "VOI"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/Q6.png",
+    "officialName": "Volaris Costa Rica",
+    "iata": "Q6",
+    "icao": "VPC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VI.png",
+    "officialName": "Volga-Dnepr Airlines",
+    "iata": "VI",
+    "icao": "VDA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/V7.png",
+    "officialName": "Volotea",
+    "iata": "V7",
+    "icao": "VOE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/VY.png",
+    "officialName": "Vueling",
+    "iata": "VY",
+    "icao": "VLG"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/PN.png",
+    "officialName": "West Air",
+    "iata": "PN",
+    "icao": "CHB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WS.png",
+    "officialName": "WestJet",
+    "iata": "WS",
+    "icao": "WJA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/WF.png",
+    "officialName": "Wideroe",
+    "iata": "WF",
+    "icao": "WIF"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/7W.png",
+    "officialName": "Windrose Airlines",
+    "iata": "7W",
+    "icao": "WRC"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/P5.png",
+    "officialName": "Wingo",
+    "iata": "P5",
+    "icao": "RPB"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/W6.png",
+    "officialName": "Wizz Air",
+    "iata": "W6",
+    "icao": "WZZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/5W.png",
+    "officialName": "Wizz Air Abu Dhabi",
+    "iata": "5W",
+    "icao": "WAZ"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/MF.png",
+    "officialName": "XiamenAir",
+    "iata": "MF",
+    "icao": "CXA"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/R3.png",
+    "officialName": "Yakutia Airlines",
+    "iata": "R3",
+    "icao": "SYL"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YC.png",
+    "officialName": "Yamal Airlines",
+    "iata": "YC",
+    "icao": "LLM"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/IY.png",
+    "officialName": "Yemenia",
+    "iata": "IY",
+    "icao": "IYE"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YT.png",
+    "officialName": "Yeti Airlines",
+    "iata": "YT",
+    "icao": "NYT"
+  },
+  {
+    "logoUrl": "https://pics.avs.io/200/80/YG.png",
+    "officialName": "YTO Cargo Airlines",
+    "iata": "YG",
+    "icao": "HYT"
+  }
+]

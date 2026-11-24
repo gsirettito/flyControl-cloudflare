@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{company_name} - Notificación de reserva</title>
+  <style>
+    /* Estilos generales (aplican en todos los clientes) */
+    @media only screen and (max-width: 600px) {
+
+      /* En móvil: quitamos padding del body y bordes redondeados */
+      body {
+        padding: 0 !important;
+        background-color: #ffffff !important;
+        /* evita que se vea el gris de fondo */
+      }
+
+      .main-container {
+        border-radius: 0 !important;
+        box-shadow: none !important;
+      }
+
+      .header-table {
+        border-radius: 0 !important;
+      }
+
+      .footer-table {
+        border-radius: 0 !important;
+      }
+
+      /* Opcional: ajusta el padding del contenido si lo deseas */
+      .content-padding {
+        padding: 16px !important;
+      }
+    }
+  </style>
+</head>
+
+<body
+  style="margin:0; padding:20px 0; background-color:#f4f7fb; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height:1.5;">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#f4f7fb"
+    style="background-color:#f4f7fb;">
+    <tr>
+      <td align="center" style="padding:0;">
+        <!-- Tabla contenedora principal (se le asigna la clase main-container) -->
+        <table width="100%" max-width="600" cellpadding="0" cellspacing="0" border="0" align="center"
+          class="main-container"
+          style="max-width:600px; width:100%; background-color:#ffffff; border-radius:24px; box-shadow:0 8px 20px rgba(0,0,0,0.05);">
+          <tr>
+            <td style="padding:0;">
+              <!-- CABECERA (con clase header-table) -->
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" class="header-table"
+                style="background-color:{company_primary_color}; border-radius:24px 24px 0 0;">
+                <tr>
+                  <td style="padding:16px 24px;">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td align="left" valign="middle" style="padding:0;">
+                          <img src="{company_logo}" alt="{company_name}" width="80"
+                            style="display:block; max-width:80px; height:auto; border:0;" />
+                        </td>
+                        <td align="right" valign="middle" style="padding-left:16px;">
+                          <div style="color:white; font-size:18px; font-weight:700; margin-bottom:4px;">{company_name}
+                          </div>
+                          <!-- <div style="color:white; font-size:8px; opacity:0.9;">Boleto de viaje</div> -->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- FIN CABECERA -->
+
+              {content}
+
+              <!-- FOOTER (con clase footer-table) -->
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" class="footer-table"
+                style="background-color:#f8fafc; border-top:1px solid #e2e8f0; border-radius:0 0 24px 24px;">
+                <tr>
+                  <td style="padding:24px 32px; text-align:center; font-size:12px; color:#64748b;">
+                    <p style="margin:0 0 8px 0;">{company_name} · {company_phone} · {company_email}</p>
+                    <p style="margin:0 0 12px 0;">{company_address}</p>
+                    <p style="margin:12px 0 0 0;">© 2026 FlyControl – Gestión de vuelos. Todos los derechos reservados.
+                    </p>
+                    <p style="margin:8px 0 0 0;"><a href="#"
+                        style="color:{company_primary_color}; text-decoration:none;">Política de privacidad</a></p>
+                  </td>
+                </tr>
+              </table>
+              <!-- FIN FOOTER -->
+            </td>
+        </table>
+  </table>
+  </td>
+  </tr>
+  </table>
+</body>
+
+</html>

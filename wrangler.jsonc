@@ -1,0 +1,25 @@
+{
+  "name": "flycontrol",
+  "main": "cloudflare-worker.js",
+  "compatibility_date": "2026-11-24",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "global_fetch_strictly_public"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "vars": {
+    "FLYCONTROL_WORKERS": "true",
+    "AUTH_TRUST_HOST": "true",
+    "STORAGE_MODE": "remote"
+  },
+  "triggers": {
+    "crons": []
+  },
+  "observability": {
+    "enabled": true
+  },
+  "keep_vars": true
+}

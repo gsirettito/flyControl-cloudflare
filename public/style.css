@@ -1,0 +1,242 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#opencollection-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* Estilo general para las tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Encabezados de la tabla */
+th {
+    background-color: #2c3e50;
+    /* Azul oscuro profesional */
+    color: white;
+    padding: 12px 15px;
+    text-align: left;
+    font-weight: 600;
+}
+
+/* Celdas del cuerpo */
+td {
+    padding: 10px 15px;
+    border-bottom: 1px solid #ecf0f1;
+    /* Línea divisoria sutil */
+}
+
+/* Efecto zebra para filas */
+tr:nth-child(even) {
+    background-color: #f8f9fa;
+    /* Gris muy claro para filas pares */
+}
+
+/* Efecto al pasar el ratón sobre una fila */
+tr:hover {
+    background-color: #e9ecef;
+    /* Resalta la fila al interactuar */
+    transition: background-color 0.2s ease;
+}
+
+/* =============================================
+   1. TIPOGRAFÍA Y ESPACIADO GENERAL
+   ============================================= */
+
+/* Mejora la legibilidad del texto */
+#opencollection-container {
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, sans-serif;
+    line-height: 1.5;
+    color: #1e293b;
+    background-color: #f8fafc;
+}
+
+/* Ajusta el contenedor principal para mejor lectura */
+.opencollection__content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* =============================================
+   2. TABLAS RESPONSIVAS (con scroll horizontal)
+   ============================================= */
+
+/* Envuelve las tablas en un contenedor con scroll en móviles */
+#opencollection-container table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    border-radius: 12px;
+}
+
+/* En pantallas grandes, que no sea "nowrap" para mejor legibilidad */
+@media (min-width: 768px) {
+    #opencollection-container table {
+        white-space: normal;
+    }
+}
+
+/* =============================================
+   3. BLOQUES DE CÓDIGO (más elegantes)
+   ============================================= */
+
+#opencollection-container pre {
+    background: #0f172a;
+    color: #e2e8f0;
+    border-radius: 16px;
+    padding: 1.2rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    font-family: 'Fira Code', 'Cascadia Code', 'SF Mono', monospace;
+    line-height: 1.45;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    margin: 1.5rem 0;
+}
+
+/* Código inline */
+#opencollection-container code {
+    font-family: 'Fira Code', monospace;
+    background: #eef2ff;
+    color: #1e40af;
+    padding: 0.2rem 0.4rem;
+    border-radius: 8px;
+    font-size: 0.85em;
+}
+
+/* Código dentro de pre (anula el inline) */
+#opencollection-container pre code {
+    background: transparent;
+    color: inherit;
+    padding: 0;
+    border-radius: 0;
+}
+
+/* =============================================
+   4. ENCABEZADOS MÁS ATRACTIVOS
+   ============================================= */
+
+#opencollection-container h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    border-left: 5px solid #2c3e50;
+    padding-left: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+#opencollection-container h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e2e8f0;
+}
+
+#opencollection-container h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    color: #0f172a;
+}
+
+/* =============================================
+   5. NOTAS Y ADVERTENCIAS (callouts)
+   ============================================= */
+
+/* Para notas importantes (puedes personalizar según el texto) */
+#opencollection-container blockquote,
+#opencollection-container .note {
+    background: #fef9c3;
+    border-left: 6px solid #eab308;
+    padding: 1rem 1.2rem;
+    border-radius: 12px;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+    color: #1e293b;
+}
+
+/* Para mensajes de advertencia o error */
+#opencollection-container .warning {
+    background: #fee2e2;
+    border-left-color: #dc2626;
+}
+
+/* Si el contenido tiene clases propias, ajusta; si no, busca por texto */
+#opencollection-container p strong {
+    color: #0f172a;
+}
+
+/* =============================================
+   6. ENLACES MÁS AMIGABLES
+   ============================================= */
+
+#opencollection-container a {
+    color: #2563eb;
+    text-decoration: none;
+    border-bottom: 1px dotted #94a3b8;
+    transition: color 0.2s;
+}
+
+#opencollection-container a:hover {
+    color: #1e40af;
+    border-bottom-style: solid;
+}
+
+/* =============================================
+   7. ESPACIADO ENTRE ELEMENTOS
+   ============================================= */
+
+#opencollection-container p,
+#opencollection-container ul,
+#opencollection-container ol {
+    margin-bottom: 1.2rem;
+}
+
+#opencollection-container li {
+    margin-bottom: 0.3rem;
+}
+
+/* =============================================
+   8. BORDES REDONDEADOS EN GENERAL
+   ============================================= */
+
+#opencollection-container .card,
+#opencollection-container .endpoint {
+    background: white;
+    border-radius: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    margin-bottom: 1.5rem;
+}
+
+/* =============================================
+   9. SCROLLBAR PERSONALIZADA (opcional)
+   ============================================= */
+
+#opencollection-container::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+#opencollection-container::-webkit-scrollbar-track {
+    background: #e2e8f0;
+    border-radius: 10px;
+}
+
+#opencollection-container::-webkit-scrollbar-thumb {
+    background: #94a3b8;
+    border-radius: 10px;
+}
+
+#opencollection-container::-webkit-scrollbar-thumb:hover {
+    background: #64748b;
+}
